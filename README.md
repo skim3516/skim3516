@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @skim3516
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning CS fundamentals and front end web development
+- 👋 Hi, I’m Sarah Kim
+- 👀 I’m interested in front-end-development
+- 🌱 I’m currently learning CS fundamentals and front-end web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
