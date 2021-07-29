@@ -1,6 +1,6 @@
-Hello there! Nice to meet you. 
+Hello there! Nice to meet you!👋🏻
 
-- 👋 My name is Sarah Kim. 
+- 😻 My name is Sarah Kim. 
 - 🌱 I’m currently learning CS fundamentals and front-end web development.
 - 📫 How to reach me ...
 - 💌 Connect with me on twitter!
