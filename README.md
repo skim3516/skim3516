@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Sarah Kim
-- 👀 I’m interested in front-end-development
-- 🌱 I’m currently learning CS fundamentals and front-end web development
-- 💞️ I’m looking to collaborate on ...
+Hello there! Nice to meet you. 
+
+- 👋 My name is Sarah Kim. 
+- 🌱 I’m currently learning CS fundamentals and front-end web development.
 - 📫 How to reach me ...
+- 💌 Connect with me on twitter!
 
 <!---
 skim3516/skim3516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
