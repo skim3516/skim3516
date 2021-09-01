@@ -2,7 +2,7 @@ Hello there! Nice to meet you!👋🏻
 
 - 😻 My name is Sarah Kim. 
 - 🌱 I’m currently learning CS fundamentals and front-end web development.
-- 📫 How to reach me ...
+- 📫 How to reach me skim3516@gmail.com
 - 💌 Connect with me on twitter!
 
 <!---
